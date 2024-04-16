@@ -1,3 +1,6 @@
+KOI -> Kepler Object of Interessed
+TOI -> TESS Object of Interessed
+
 - kepid (númerico, sequencial nao ordenado) ID do registro do dataset
 - kepoi_name (texto, estruturado) Nome KOI do registro do dataset 
 - kepler_name: (texto, estruturado) Nome do exoplaneta de acordo com os registros e as descobertas do kepler
